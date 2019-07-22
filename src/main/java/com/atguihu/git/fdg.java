@@ -5,6 +5,7 @@ public class fdg {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("sdfvsdfs");
+		System.out.println("sdfsdf");
 	}
 
 }
